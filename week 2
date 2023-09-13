@@ -1,0 +1,7 @@
+//update the prgoram using 
+sudo apt update
+gcc --version
+touch hello.c
+
+to compile "ls" to print local files then gcc (Name).c
+Note:You must save before compiling
